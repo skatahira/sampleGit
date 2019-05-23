@@ -1,5 +1,9 @@
 # sampleGit
 
-HelloWorld!
+HelloSwift!
 
 ターミナルでGitを使いこなす
+
+コミット！プッシュ！
+フェッチ！プル！
+マージ！コンフリクト！
